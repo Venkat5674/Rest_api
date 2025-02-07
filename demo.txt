@@ -1,0 +1,1 @@
+ctrl+shift+P -to change the enviornment and Interpreter settings
